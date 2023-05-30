@@ -1,0 +1,8 @@
+{
+    "name": "Repo: Français",
+    "description": "Extensions en français",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://codeberg.org/7TE/FStream/raw/branch/build/plugins.json"
+    ]
+}

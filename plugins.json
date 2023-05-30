@@ -1,0 +1,20 @@
+[
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/7TE/FStream/",
+        "fileSize": 106639,
+        "status": 1,
+        "authors": [
+            "user"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "FStreamProvider",
+        "description": "Sites en Fran\u00e7ais, bas\u00e9 sur SoraStream et TMDB",
+        "url": "https://codeberg.org/7TE/FStream/raw/branch/build/FStreamProvider.cs3",
+        "name": "FStreamProvider"
+    }
+]
