@@ -3,6 +3,6 @@
     "description": "Extensions en français",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://codeberg.org/7TE/FStream/raw/branch/build/plugins.json"
+        "https://github.com/Solominou/French/raw/main/plugins.json"
     ]
 }
